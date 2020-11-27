@@ -1,0 +1,21 @@
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\2 лабораторная\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\2 лабораторная\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\2 лабораторная\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\2 лабораторная\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\2 лабораторная\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\2 лабораторная\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\2 лабораторная\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная +\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная +\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная +\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная +\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная +\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная +\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Hi-tech\Desktop\2 курс\Объектно-Ориентированный Анализ и Проектирование\3 лабораторная +\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
