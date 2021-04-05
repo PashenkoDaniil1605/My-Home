@@ -1,0 +1,14 @@
+C:\Users\Hi-tech\Desktop\2 курс\2 семестр\ЯиМП\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Hi-tech\Desktop\2 курс\2 семестр\ЯиМП\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Hi-tech\Desktop\2 курс\2 семестр\ЯиМП\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Hi-tech\Desktop\2 курс\2 семестр\ЯиМП\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Hi-tech\Desktop\2 курс\2 семестр\ЯиМП\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\2 курс\2 семестр\ЯиМП\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Hi-tech\Desktop\2 курс\2 семестр\ЯиМП\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\Hi-tech\Desktop\Програмирование\Абстрактный Класс Фигура\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Hi-tech\Desktop\Програмирование\Абстрактный Класс Фигура\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Hi-tech\Desktop\Програмирование\Абстрактный Класс Фигура\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Hi-tech\Desktop\Програмирование\Абстрактный Класс Фигура\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\Hi-tech\Desktop\Програмирование\Абстрактный Класс Фигура\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\Програмирование\Абстрактный Класс Фигура\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Hi-tech\Desktop\Програмирование\Абстрактный Класс Фигура\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
