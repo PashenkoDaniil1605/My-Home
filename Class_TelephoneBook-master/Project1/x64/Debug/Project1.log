@@ -1,13 +1,1 @@
-﻿  Menu.cpp
-  PhoneBook.cpp
-C:\Users\Hi-tech\Desktop\ФизМат\Class_TelephoneBook-master\Project1\PhoneBook.cpp(13,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Hi-tech\Desktop\ФизМат\Class_TelephoneBook-master\Project1\PhoneBook.cpp(14,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Hi-tech\Desktop\ФизМат\Class_TelephoneBook-master\Project1\PhoneBook.cpp(42,26): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
-C:\Users\Hi-tech\Desktop\ФизМат\Class_TelephoneBook-master\Project1\PhoneBook.cpp(43,36): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
-C:\Users\Hi-tech\Desktop\ФизМат\Class_TelephoneBook-master\Project1\PhoneBook.cpp(59,21): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
-C:\Users\Hi-tech\Desktop\ФизМат\Class_TelephoneBook-master\Project1\PhoneBook.cpp(68,26): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
-C:\Users\Hi-tech\Desktop\ФизМат\Class_TelephoneBook-master\Project1\PhoneBook.cpp(125,33): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
-C:\Users\Hi-tech\Desktop\ФизМат\Class_TelephoneBook-master\Project1\PhoneBook.cpp(126,43): warning C4267: =: преобразование из "size_t" в "char"; возможна потеря данных
-  Prog.cpp
-  Создание кода...
-  Project1.vcxproj -> C:\Users\Hi-tech\Desktop\ФизМат\Class_TelephoneBook-master\x64\Debug\Project1.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(439,5): error MSB8020: Не удается найти средства сборки для v143 (набор инструментов платформы = "v143"). Чтобы выполнить сборку с использованием средств сборки v143 установите средства сборки v143.  Кроме того, можно выполнить обновление до текущей версии средств Visual Studio, перейдя в меню "Проект" или щелкнув решение правой кнопкой мыши и выбрав "Обновить решение...".

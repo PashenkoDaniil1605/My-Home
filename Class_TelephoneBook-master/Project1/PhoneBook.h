@@ -5,6 +5,7 @@
 #include <string.h>
 #include <conio.h>
 #include <iomanip>
+#include <vector>
 
 
 using namespace std;
@@ -18,11 +19,12 @@ private:
 	int number;
 	char* FIO;
 	char* MobPhone;
+	char* Group;
 
 public:
 	
 	PhoneBook();
-	PhoneBook(int _number, const char *_fio, const char* _mobphone);
+	PhoneBook(int _number, const char *_fio, const char* _mobphone, const char* _group);
 	
 	//конструктор копирования
 	PhoneBook(const PhoneBook& obj);

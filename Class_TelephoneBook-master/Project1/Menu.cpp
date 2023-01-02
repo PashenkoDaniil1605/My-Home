@@ -18,14 +18,14 @@ int number = 1;
 //Первоначальное заполнение абонентской книги
 PhoneBook* p = new PhoneBook[countabon]
 {
-	{number++, "Чепига Анатолий Владимирович", "+7(038)444-33-22"},
-	{number++, "Александр Евгеньевич Мишкин", "+7(048)000-33-21"},
-	{number++, "Порошенко Владимир Владимирович", "+38(666)0053321"}
+	{number++, "Чепига Анатолий Владимирович",    "+7(038)444-33-22", "parent"},
+	{number++, "Александр Евгеньевич Мишкин",     "+7(048)000-33-21", "parent"},
+	{number++, "Порошенко Владимир Владимирович", "+38(666)0053321",  "parent"}
 };
 
 
 
- //-----------------------------------------------------------------------------------------------
+//-----------------------------------------------------------------------------------------------
 string* MenuItems() // this function returns a pointer to a string.
 {
 	string* item = new string[5];
@@ -49,11 +49,14 @@ void gotoxy(int xpos, int ypos)  // just take this function as it is.
 void MenuFun1()
 {
 	system("cls"); 
+	string line(84, '-');
+	gotoxy(0, 5);
 
-	//gotoxy(25, 10);
-
-	cout << "Телефонная книга" << endl;
-
+	cout << "\t\t\tТелефонная книга" << endl;
+	cout << line << endl;
+	cout << "|" << setw(4) << "№" << "|" << setw(40) << "FIO" << "  |" << setw(17) << "MobPhone" << "  |" << setw(12) << "Group" << "  |" << endl;
+	cout << line << endl;
+	
 	for (size_t i = 0; i < countabon; i++)
 	{
 		p[i].ShowPhoneBook();
